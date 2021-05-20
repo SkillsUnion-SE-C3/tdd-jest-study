@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <script type="module">
+      import { sum } from "./modules/sum.js";
+
+      function handleSum() {
+        const input1 = document.getElementById("input1").value;
+        const input2 = document.getElementById("input2").value;
+        document.getElementById("answer").value = sum(input1, input2);
+      }
+      window.handleSum = handleSum;
+    </script>
+  </head>
+
+  <body>
+    <input id="input1" type="number" placeholder="Enter first number" /> +
+    <input id="input2" type="number" placeholder="Enter second number" /> =
+    <input id="answer" type="number" placeholder="Auto answer" disabled />
+    <br />
+    <button onclick="handleSum()">Sum</button>
+  </body>
+</html>
