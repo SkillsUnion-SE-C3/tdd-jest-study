@@ -31,14 +31,7 @@
 // Your answer here
 ```
 
-4. Why is it important to write "just enough code"?
-
-```
-// Your answer here
-
-```
-
-5. What is "just enough code"?
+4. What is "just enough code"?
 
 ```
 // Your answer here
