@@ -7,7 +7,7 @@
 - [Red, Green, Refactor](https://medium.com/@tunkhine126/red-green-refactor-42b5b643b506)
 - [Benefits of TDD](https://dzone.com/articles/20-benefits-of-test-driven-development)
 - [Three Laws of TDD](https://qualitycoding.org/3-laws-tdd/)
-- [Just enough code](https://www.scriptworks.io/2016/03/just-enough-code/)
+- [TDD with just enough code](https://www.thinktocode.com/2018/02/05/what-is-tdd/)
 
 ---
 
@@ -38,7 +38,7 @@
 
 ```
 
-5. How to achieve "just enough code"?
+5. What is "just enough code"?
 
 ```
 // Your answer here
