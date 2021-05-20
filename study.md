@@ -2,20 +2,54 @@
 
 # TDD with Jest: Study
 
-## Part 1 - Install & Try Jest
+## Reading
 
-Step 1: Create a project folder call `jest-study` inside the root folder of the repository. So you get `tdd-with-jest-study/jest-study` folder.
-
-Step 2: Launch a terminal/command prompt and change directory to the folder.
-
-Step 3: Type `npm init` to create a `package.json` file
-
-Step 4: Follow the steps in the [getting started](https://jestjs.io/docs/getting-started) section. (use npm)
-
-If you are stuck, look at the folder `tdd-with-jest-study/prepare-study` for example.
+- [Red, Green, Refactor](https://medium.com/@tunkhine126/red-green-refactor-42b5b643b506)
+- [Benefits of TDD](https://dzone.com/articles/20-benefits-of-test-driven-development)
+- [Three Laws of TDD](https://qualitycoding.org/3-laws-tdd/)
+- [Just enough code](https://www.scriptworks.io/2016/03/just-enough-code/)
 
 ---
 
-## Part 2 - Reading
+## Questions
 
-Read through the variations of `matchers` [here](https://jestjs.io/docs/using-matchers) to better prepare yourself for lesson.
+1. Explain what TDD is.
+
+```
+// Your answer here
+```
+
+2. List three benefits of TDD.
+
+```
+// Your answer here
+```
+
+3. Explain what is red, green, refactor.
+
+```
+// Your answer here
+```
+
+4. Why is it important to write "just enough code"?
+
+```
+// Your answer here
+
+```
+
+5. How to achieve "just enough code"?
+
+```
+// Your answer here
+```
+
+---
+
+## Response Guidelines
+
+Please follow these guidelines as you answers these questions:
+
+- Cite any relevant sources consulted during your research
+- Do not reply using direct quotes from the source material
+- Provide an answer using your own words and voice

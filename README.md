@@ -6,13 +6,17 @@
 
 By the end of this, you should know:
 
-- Jest is a unit testing library
-- How to refer to Jest API
+- What is red, green, refactor.
+- The benefits of TDD.
+- The three laws of TDD
+- What is just enough code
 
 By the end of this, you should be able to:
 
-- Create a simple `sum()` function
-- Write a unit test with Jest
+- Explain how TDD is done.
+- List at least three benefits of TDD.
+- Explain what is red, green, refactor.
+- Explain what is "just enough code".
 
 ## Instructions
 
