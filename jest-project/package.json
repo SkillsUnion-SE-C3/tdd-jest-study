@@ -1,15 +1,10 @@
 {
   "name": "jest-project",
-  "jest":{
-    "verbose":true,
-    "transform":{}
-  },
-  "type":"module",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
