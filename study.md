@@ -17,25 +17,27 @@
 1. Explain what TDD is.
 
 ```
-// Your answer here
+Test Driven Development (TDD) is the development process of testing code in small cycles.
 ```
 
 2. List three benefits of TDD.
 
 ```
-// Your answer here
+1. Writing the test helps you work out what you want from the code
+2. help focus you on one code part at a time
+3. reduces time on reowkring code
 ```
 
 3. Explain what is red, green, refactor.
 
 ```
-// Your answer here
+This is the process of having failing test (red), making the code pass with just enough code (green) and then starting over again (refactor)
 ```
 
 4. What is "just enough code"?
 
 ```
-// Your answer here
+You write just enough test code to get the fail and then again to pass production. 
 ```
 
 ---
