@@ -17,25 +17,31 @@
 1. Explain what TDD is.
 
 ```
-// Your answer here
+// TDD (Test driven development) confirms whether your code behaves as it should or not. Pass or Fail.
 ```
 
 2. List three benefits of TDD.
 
 ```
-// Your answer here
+// - Develop project quickly and with a higher quality.
+// - Receive fast feedback.
+// - Identify errors and problems quickly.
 ```
 
 3. Explain what is red, green, refactor.
 
 ```
-// Your answer here
+// - Red: write a test. (Test fails)
+// - Green: write code to make test pass. (Code passes test)
+// - Refactor: How to improve workable code. (Clean code)
 ```
 
 4. What is "just enough code"?
 
 ```
-// Your answer here
+// "just enough code" involves two steps:
+// - write only enough of a unit test to fail.
+// - write only enough production code to make the failing unit test pass.
 ```
 
 ---
